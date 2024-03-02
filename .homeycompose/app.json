@@ -1,16 +1,16 @@
 {
-  "id": "com.tuya.zigbee",
-  "version": "0.2.25",
+  "id": "com.tuya.zigbee.JR",
+  "version": "0.2.26",
   "compatibility": ">=5.0.0",
   "platforms": [
     "local"
   ],
   "sdk": 3,
   "name": {
-    "en": "Tuya Zigbee"
+    "en": "Tuya Zigbee JR"
   },
   "description": {
-    "en": "Control your white label Zigbee devices made by Tuya"
+    "en": "Control your white label Zigbee devices made by Tuya - JR"
   },
   "tags": {
     "en": [

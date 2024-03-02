@@ -1,7 +1,7 @@
 {
-  "name": "com.tuya.zigbee",
-  "version": "0.2.25",
-  "description": "Adds support for Tuya Zigbee devices to Homey",
+  "name": "com.tuya.zigbee.JR",
+  "version": "0.2.26",
+  "description": "Adds support for Tuya Zigbee devices to Homey . JR",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
